@@ -1,2 +1,28 @@
-# 26fd1b34-witchcraft-spiritual-onboard
-New hire onboarding checklists, training modules, certification tracking, and mentor assignment. Reduces onboarding time by 50%.
+# Witchcraft & Spiritual Onboarding and Training System Notion Template
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/7sYdR9dPp1g0bRSdI0d0j38)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/7sYdR9dPp1g0bRSdI0d0j38)
+
